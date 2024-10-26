@@ -1,0 +1,32 @@
+<resources xmlns:tools="http://schemas.android.com/tools" xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Base application theme. -->
+    <style name="Theme.EasyEnergy" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/light_amber</item>
+        <item name="colorPrimaryDark">@color/dark_amber</item>
+        <item name="colorOnPrimary">@color/amber</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/brown</item>
+        <item name="colorSecondaryVariant">@color/orange</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/dark_amber</item>
+        <item name="android:navigationBarColor">@color/dark_amber</item>
+        <item name="android:textColor">@color/brown</item>
+        <item name="android:background">@color/light_amber</item>
+        <!-- Customize your theme here. -->
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:buttonStyle">@style/ButtonEE</item>
+    </style>
+
+
+    <style name="Theme.EasyEnergy.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="colorPrimary">@color/no_color</item>
+    </style>
+
+    <style name="Theme.EasyEnergy.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.EasyEnergy.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>

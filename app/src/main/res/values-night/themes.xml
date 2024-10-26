@@ -1,0 +1,32 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.EasyEnergy" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color. -->
+
+        <item name="colorOnPrimary">@color/grey</item>
+        <item name="colorPrimary">@color/light_amber</item>
+        <item name="colorPrimaryVariant">@color/brown</item>
+
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/amber</item>
+        <item name="colorSecondaryVariant">@color/light_amber</item>
+        <item name="colorOnSecondary">@color/orange</item>
+        <!-- Status bar color. -->
+
+        <!-- Customize your theme here. -->
+        <item name="android:statusBarColor">@color/dark_grey</item>
+        <item name="android:navigationBarColor">@color/dark_grey</item>
+        <item name="android:textColor">@color/light_amber</item>
+        <item name="android:background">@color/darker_grey</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="colorControlHighlight">@color/light_amber</item>
+        <item name="android:buttonStyle">@style/dark_buttonEE</item>
+    </style>
+
+
+    <style name="Theme.EasyEnergy.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="colorPrimary">@color/no_color</item>
+    </style>
+</resources>

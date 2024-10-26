@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Easy Energy</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="today_btn">Today</string>
+    <string name="month_btn">Month</string>
+    <string name="year_btn">Year</string>
+    <string name="home_menu">Home</string>
+    <string name="info_menu">Info</string>
+    <string name="settings_menu">Settings</string>
+    <string name="current_price_text">Current price</string>
+    <string name="info">
+            Electricity\'s price changes noticeably every hour. With this app you can use electricity price efficiently.
+            Electricity\'s hour price data comes from Entso-E service. \n
+    Credits: \n
+    Nico Suonvieri \n
+    Irina Luiro  \n
+    Claudio Tocci \n
+    Darja Davydova</string>
+</resources>

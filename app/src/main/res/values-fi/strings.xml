@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Easy Energy</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hei tyhjä fragmentti</string>
+    <string name="today_btn">Tänään</string>
+    <string name="month_btn">Kuukausi</string>
+    <string name="year_btn">Vuosi</string>
+    <string name="home_menu">Kotisivu</string>
+    <string name="info_menu">Info</string>
+    <string name="settings_menu">Asetukset</string>
+    <string name="current_price_text">Nykyinen hinta</string>
+    <string name="info">    Sähkön hinta vaihtelee jyrkästi tunneittain. Tämän sovelluksen avulla
+            pystyt hyödyntämään sähköä halvimpina tunteina.
+            Sähkön tuntihinnat tulevat Entso-e palvelulta. \n
+        Tekijät: \n
+    Nico Suonvieri \n
+    Irina Luiro \n
+    Claudio Tocci \n
+    Darja Davydova \n
+    </string>
+</resources>
